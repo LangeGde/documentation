@@ -31,7 +31,7 @@ New Features and Bug Fixes
 	- :js:func:`dex::client::GetResponseHeaders` and other functions would not support arguments that are identifier slices. 
 	
 1.2.0.30 [30-06-2021]
-	- Allow memory streams to be read twice by :js:func:`ReadFromFile`
+	- Allow memory streams to be read twice by :js:func:`dex::ReadFromFile`
 	- Allow double values in JSON documents to be read into string parameters
 
 1.2.0.28 [28-06-2021]
